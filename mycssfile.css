@@ -17,3 +17,23 @@
     background-attachment: fixed;
     background-size: cover;
 }
+.text_change {
+    border: none;
+    padding: .5rem 1rem;
+    padding-right: 0rem;
+    padding-left: 0rem;
+    color:rgba(255,255,255,.5);
+
+}
+
+.text_change:hover {
+    color:#e9ecef ;
+}
+
+.text_decrese {
+    font-size: 0.8rem;
+}
+
+.text_reset {
+    font-size: 0.9rem;
+}
